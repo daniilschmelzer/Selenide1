@@ -32,6 +32,7 @@ out/
 
 ### Package Files ###
 *.jar
+!app-card-delivery.jar
 *.war
 *.nar
 *.ear
